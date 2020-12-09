@@ -1,0 +1,247 @@
+.header-area {
+	background-color: #e4e4e4;
+}
+
+.logo {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	text-align: right;
+	margin-top: 8px;
+}
+
+ul li {
+	list-style: none;
+	display: inline-block;
+	
+}
+
+ul li a {
+	display: block;
+	padding: 15px;
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	
+}
+
+.header {
+	background-image: url(img/header.jpg);
+	height: 600px;
+	background-size: cover;
+}
+
+.image-content {
+	text-align: center;
+	color: #ffffff;
+	margin-top: 150px;
+}
+
+.image-content h3 {
+	margin-top: 30px;
+	color: #a8a8a8;
+}
+
+.image-content a {
+	margin-top: 30px;
+	text-transform: uppercase;
+}
+
+.content {
+	margin-top: 60px;
+}
+
+.balb-1 {
+
+}
+
+.balb-1 h4 {
+	margin-top: 20px;
+	font-weight: bold;
+
+}
+
+.balb-2 {
+	background-image: url(img/balb.png);
+	background-repeat: no-repeat;
+	height: 100px;
+	margin-left: 80px;
+}
+
+.balb-2 ul {
+	text-align: center;
+	margin-left: -85px;
+	
+	
+}
+
+.balb-2 ul li {
+	font-size: 50px;
+	margin-top: 20px;
+	color: #f0f0f0;
+	
+}
+
+.clock-1 h4 {
+	margin-top: 20px;
+	font-weight: bold;
+
+}
+
+.clock-2 {
+	background-image: url(img/clock.png);
+	background-repeat: no-repeat;
+	height: 100px;
+	margin-left: 80px;
+}
+
+.clock-2 ul {
+	text-align: center;
+	margin-left: -85px;
+	
+	
+}
+
+.clock-2 ul li {
+	font-size: 50px;
+	margin-top: 20px;
+	color: #f0f0f0;
+	
+}
+
+.experiment-1 h4 {
+	margin-top: 20px;
+	font-weight: bold;
+
+}
+
+.experiment-2 {
+	background-image: url(img/experiment.png);
+	background-repeat: no-repeat;
+	height: 100px;
+	margin-left: 80px;
+}
+
+.experiment-2 ul {
+	text-align: center;
+	margin-left: -85px;
+	
+	
+}
+
+.experiment-2 ul li {
+	font-size: 50px;
+	margin-top: 20px;
+	color: #f0f0f0;
+	
+}
+
+.farm-1 h4 {
+	margin-top: 20px;
+	font-weight: bold;
+
+}
+
+.farm-2 {
+	background-image: url(img/farmentam.png);
+	background-repeat: no-repeat;
+	height: 100px;
+	margin-left: 80px;
+}
+
+.farm-2 ul {
+	text-align: center;
+	margin-left: -85px;
+	
+	
+}
+
+.farm-2 ul li {
+	font-size: 50px;
+	margin-top: 20px;
+	color: #f0f0f0;
+	
+}
+
+.line hr {
+	border: 2px solid #dcdcdc;
+	margin-bottom: 50px;
+}
+
+
+.nobis {
+	margin-left: -25px;
+}
+
+.paper {
+	margin-left: -13px;
+}
+
+.carousel {
+	height: 220px;
+	background-color: #efefef;
+	margin-top: 50px;
+}
+
+.quote ul {
+	text-align: center;
+}
+
+.quote ul li {
+	margin-top: 50px;
+	font-size: 30px;
+	color: #dcdcdc;
+}
+
+.quote p {
+	width: 50%;
+	margin: auto;
+	text-align: center;
+	margin-top: 20px;
+	color: #a1a1a1;
+}
+
+.space {
+	height: 500px;
+	background-color: #1c1c1c;
+}
+
+.touch {
+	display: inline-block;
+}
+
+.touch h6 {
+	color: #6c6c6c;
+	text-transform: uppercase;
+	margin-top: 50px;
+	
+}
+
+.touch p {
+	color: #cacaca;
+}
+
+.touch ul {
+	text-align: left;
+	
+}
+
+.touch ul li {
+	color: #ffa200;
+	float: left;
+	margin-top: 10px;
+}
+
+.touch ul p {
+	margin-left: 30px;
+}
+
+.line-2 hr {
+	border: 2px solid #383838;
+	margin-bottom: 20px;
+	margin-top: 30px;
+}
